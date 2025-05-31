@@ -1,16 +1,16 @@
 ![Preview](./images/bg.webp)
 
-### Hi!👋 I'm Khương Dừa🎀
+### Hi!👋 I'm Stuckz🎀
 
 **Coser and Gamer** 
 
 ## **☕ About me**
-<a href="https://github.com/NguyenNhatSakura"><img align="left" width="100" src="./images/mahiro_switch.png"></a>
-I'm a Khương Dừa and NEET, and my hobbies include playing games, watching anime, reading manga, cosplaying, listening to music, and sometimes tinkering with random stuff like coding.
+<a href="https://github.com/"><img align="left" width="100" src="./images/mahiro_switch.png"></a>
+I'm a Stuckz and NEET, and my hobbies include playing games, watching anime, reading manga, cosplaying, listening to music, and sometimes tinkering with random stuff like coding.
 <br><br>
 
 ## **💻 Experience**
-<a href="https://github.com/NguyenNhatSakura"><img align="right" width="100" src="./images/mahiro_cry.png"></a>
+<a href="https://github.com/"><img align="right" width="100" src="./images/mahiro_cry.png"></a>
 I'm currently studying software engineering. Four years of College have passed, and I am still learning. I don't have anything special, but I hope to be able to change that in the future.
 
 
@@ -29,7 +29,7 @@ I'm currently studying software engineering. Four years of College have passed, 
 	<img src="https://moe-counter.glitch.me/get/@NguyenNhatSakura?theme=moebooru-h"> <br/>
 </p> -->
 <a href="https://discord.com/users/1073115194529677332"><img align="right" width=400 src="https://count.getloli.com/@NguyenNhatSakura?name=NguyenNhatSakura&theme=rule34&padding=10&offset=0&scale=1&pixelated=1&darkmode=0"></a>
-<a href="https://github.com/NguyenNhatSakura"><img align="left" width="100" src="./images/mahiro.png"></a>
+<a href="https://github.com/"><img align="left" width="100" src="./images/mahiro.png"></a>
 
 ```yaml
 People who visit my profile :3.
@@ -38,7 +38,7 @@ Hehe~ another cutie has been caught.
 ```
 <!-- <br><br><br><br> -->
 ## **📫 Contact**
-<a href="https://github.com/NguyenNhatSakura"><img align="right" width="100" src="./images/mahiro_box.png" /></a>
+<a href="https://github.com/"><img align="right" width="100" src="./images/mahiro_box.png" /></a>
 **Please Contact me on Discord for a quick response:** [NguyenNhatSakura](https://discord.com/users/1073115194529677332)
 
 **You can also email me here:** minhtientiny@gmail.com
